@@ -1,8 +1,25 @@
 
-### GEEKZ IP-TV
+### URL-IPTV
 ```
 https://iptv.amgeekz.tech/iptv.m3u
 ```
+
+### APLIKASI
+```
+- Android = Televizo
+- Smart Tv = TiviMate
+```
+
+### TUTORIAL
+```
+- Copy URL-IPTV
+- Buka Aplikasi Televizo/TiviMate
+- Tautkan Playlist
+- Tempel Url Yang Sudah Di Copy Sebelumnya
+- Pilih Add / ✓
+- Selamat Menikmati
+```
+
 
 <p align="center">
 <a href="#"><img title="ABOUT-ME" src="https://img.shields.io/badge/ABOUT ME-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
