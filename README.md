@@ -11,8 +11,8 @@ https://iptv.amgeekz.tech/iptv.m3u
 <a href="https://github.com/amgeekz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AMGEEKZ-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://t.me/amgeekzhost" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+<a href="https://t.me/amgeekzhost"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-AMGEEKZ-blue.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="center">
-<a href="https://wa.me/6285649455626" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a>
+<a href="https://wa.me/6285649455626"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP-AMGEEKZ-green.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
