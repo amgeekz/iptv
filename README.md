@@ -1,7 +1,7 @@
 
 ### GEEKZ IP-TV
 ```
-https://amgeekz.tech/iptv.m3u
+https://iptv.amgeekz.tech/iptv.m3u
 ```
 
 <p align="center">
